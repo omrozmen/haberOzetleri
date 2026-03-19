@@ -1,0 +1,6 @@
+çerezler vs. geliyor sitelerde en son p etiketlerinde gereksiz şeyler geliyor. Bunlar class vs yapısıyla tekrar sayfaalarda bulunup silinecekler.
+Özetler düzgün alınmıyor. Hatalar ve eksikler var. Bazı özetler özellikle çok uzun geliyor.
+(Tamamlandı) En son haber gibi haber başlıklarında ve içeriklerinde reklamlar geliyor. Reklamlardan arındırmak lazım. 
+* ollama pull mixtral:8x7b modelinide çekip denenebilir.
+Arayüz yapılacak çalışan program her on - 15 dakkada bir çalıştırılacak.
+

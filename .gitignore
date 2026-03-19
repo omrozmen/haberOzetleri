@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+.venv/
+venv/
+env/
+
+# Node.js
+**/node_modules/
+**/.next/
+**/dist/
+**/build/
+**/out/
+**/.turbo/
+**/.vercel/
+
+# Logs
+*.log
+scraper.log
+
+# Local data/output
+haberBasliklari/
+habericerikleri/
+haberOzetleri/
+haberOzetleri_mistral/
+
+# Secrets
+hf_token.txt
+keyss
+*.env
+.env.*
+
+# OS
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Backups
+UI\ copy/
+UI/react_v*/

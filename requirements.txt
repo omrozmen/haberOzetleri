@@ -1,0 +1,15 @@
+# Mistral ve Llama-3 için gerekli paketler
+transformers>=4.35.0
+torch>=2.0.0
+bitsandbytes>=0.41.0
+accelerate>=0.24.0
+protobuf>=4.24.0
+sentencepiece>=0.1.99
+
+# Ollama için (opsiyonel ama önerilen)
+requests>=2.31.0
+
+# llama-cpp-python için (GGUF modelleri için gerekli)
+llama-cpp-python>=0.2.0
+
+Flask>=3.0.0
